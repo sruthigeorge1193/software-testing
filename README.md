@@ -19,10 +19,10 @@ My background in software engineering gives me strong insight into application b
 
 ### Testing Tools and Frameworks
 
-Selenium
-Postman
-Azure DevOps
-Git
+- Selenium
+- Postman
+- Azure DevOps
+- Git
 
 ---
 
