@@ -15,6 +15,8 @@ My background in software engineering gives me strong insight into application b
 - React
 - RESTful APIs
 - SQL Server
+- Microsoft Azure
+- CI/CD
 - Debugging and architecture analysis
 
 ### Testing Tools and Frameworks
