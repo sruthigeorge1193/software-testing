@@ -17,11 +17,12 @@ My background in software engineering gives me strong insight into application b
 - SQL Server
 - Debugging and architecture analysis
 
-### Cybersecurity
-- Networking fundamentals
-- Log analysis
-- Packet inspection (Wireshark)
-- Security fundamentals
+### Testing Tools and Frameworks
+
+Selenium
+Postman
+Azure DevOps
+Git
 
 ---
 
